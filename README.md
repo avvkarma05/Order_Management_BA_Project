@@ -1,10 +1,10 @@
-***Online Order Management System — Business Analyst Project***
+***Online Order Management System — Business Analysis Project***
 
 Project Contents
 
 
 
-This project includes the following **BA deliverables**:
+The project includes the following **BA deliverables**:
 
 
 
@@ -20,7 +20,7 @@ This project includes the following **BA deliverables**:
 
 
 
-This project demonstrates core Business Analysis skills, including:
+The project demonstrates core Business Analysis skills, including:
 
 
 
